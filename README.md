@@ -20,3 +20,10 @@ execute:
 python go.py
 *************************************
 ```
+## Errors
+
+robin is not in the sudoers file. This incident will be reported.
+
+```
+sudo -i -u username
+```
